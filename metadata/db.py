@@ -187,7 +187,7 @@ Beethoven_sonatas = [
     {'filename':'Bee_PS12-1.xml', 'CAT':'12', 'mvt':'i', 'tonality':'Ab', 'form':'Variations'},
     {'filename':'Bee_PS12-2.xml', 'CAT':'12', 'mvt':'ii', 'tonality':'Ab', 'form':'Scherzo&Trio'},
     {'filename':'Bee_PS12-3.xml', 'CAT':'12', 'mvt':'iii', 'tonality':'ab', 'form':'Slow_ABA'},
-    {'filename':'Bee_PS12-4.xml', 'CAT':'12', 'mvt':'iv', 'tonality':'Ab', 'form':'Sonata'},
+    {'filename':'Bee_PS12-4.xml', 'CAT':'12', 'mvt':'iv', 'tonality':'Ab', 'form':'Sonata_rondo'},
 
     {'filename':'Bee_PS13-1.xml', 'CAT':'13', 'mvt':'i', 'tonality':'Eb', 'form':'5_part_rondo'},
     {'filename':'Bee_PS13-2.xml', 'CAT':'13', 'mvt':'ii', 'tonality':'c', 'form':'Scherzo&Trio'},
